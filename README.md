@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rsz_y1" target="blank"><img src="https://img.shields.io/twitter/follow/rsz_y1?logo=twitter&style=for-the-badge" alt="rsz_y1" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, HTML5 & CSS3, JS, Firebase,SQL**
+- 🌱 I’m currently learning **Flutter, HTML5 & CSS3, JS,php, Firebase,SQL,mysql**
 
 - 📄 My Profile [https://yasser-demo.netlify.app](https://yasser-demo.netlify.app)
 
